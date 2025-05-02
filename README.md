@@ -1,1 +1,2 @@
-# 205IC_A2_PP_Funkcja_Kwadratowa
+# Funkcja_Kwadratowa
+Program creating a quadratic function
